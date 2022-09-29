@@ -1,6 +1,6 @@
- 👋  Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying living in different countries around the world. 
+I am Tereza, a data analyst from the Czech Republic currently enjoying living in different countries around the world. 
 
-## 🙋‍♀️ ABOUT ME
+## 👋 ABOUT ME
 - 👩‍🔬 A master's degree in Chemical Engineering specializing in 🧪 Food Science, Bachelor's degrees in 🧬 Food Chemistry and Analysis, and in 🎓 Education.
 - 🔭 Currently looking for a full time job as a data analyst in remote first company. 
 - 🔍 Love mysteries, solving riddles and seaking the meaning in numbers and information.
