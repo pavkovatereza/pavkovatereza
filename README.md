@@ -9,8 +9,8 @@ Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying li
 
 ## 💻 What I am working on
 - 🧠 Improving knowledge of SQL and Tableau
-- 🔥 Project focused on data science job salaries using SQL
-- Updating my Tableau profile and creating my first vizualization 
+- 🔥 Project: Maven Pizza Challenge using SQL
+- Updating my Tableau profile with more interesting visualizations 
 
 ## 🔧 Skills and tools ⚙️ 
 - **Skills:** Critical thinking, problem solving, clear communication, leadership, maximum effort 
