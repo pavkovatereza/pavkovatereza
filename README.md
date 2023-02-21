@@ -9,7 +9,7 @@ Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying li
 
 ## 👩‍💻 What I am working on
 - 🧠 Improving knowledge of SQL and Tableau
-- 🔥 Project: Maven Pizza Challenge using SQL
+- 🔥 Project: Create Tableau visualization to accompany my uptake on the Maven Pizza Challenge
 - 💻 A cooperative project focused on DDDM for conscious marketing
 - Updating my Tableau profile with more interesting visualizations 
 
