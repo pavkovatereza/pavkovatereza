@@ -7,9 +7,10 @@ Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying li
 - 📚 Passion for discovering new things and gaining new skills and knowledge.
 - 🎸 Fun fact: I play a bass guitar for 12 years but I've never had a band.
 
-## 💻 What I am working on
+## 👩‍💻 What I am working on
 - 🧠 Improving knowledge of SQL and Tableau
 - 🔥 Project: Maven Pizza Challenge using SQL
+- 💻 A cooperative project focused on DDDM for conscious marketing
 - Updating my Tableau profile with more interesting visualizations 
 
 ## 🔧 Skills and tools ⚙️ 
