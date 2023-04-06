@@ -3,7 +3,7 @@ Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying li
 ## 👋 About me
 - 👩‍🔬 A master's degree in Chemical Engineering specializing in 🧪 Food Science, Bachelor's degrees in 🧬 Food Chemistry and Analysis, and in 🎓 Education.
 - 🔭 Currently looking for a full time job as a data analyst in remote first company. 
-- 🔍 Love mysteries, solving riddles and seaking the meaning in numbers and information.
+- 🔍 Love mysteries, solving riddles and seeking the meaning in numbers and information.
 - 📚 Passion for discovering new things and gaining new skills and knowledge.
 - 🎸 Fun fact: I play a bass guitar for 12 years but I've never had a band.
 
