@@ -8,8 +8,8 @@ Hello, I am Tereza, a data analyst from the Czech Republic currently enjoying li
 - 🎸 Fun fact: I play a bass guitar for 12 years but I've never had a band.
 
 ## 👩‍💻 What I am working on
-- 🧠 Improving knowledge of SQL and Tableau
-- 🔥 Project: Create Tableau visualization to accompany my uptake on the Maven Pizza Challenge
+- 🧠 Improving knowledge of Python and getting familiar with AWS
+- 🔥 Project: Web scrapping with Python
 - 💻 A cooperative project focused on DDDM for conscious marketing
 - Updating my Tableau profile with more interesting visualizations 
 
